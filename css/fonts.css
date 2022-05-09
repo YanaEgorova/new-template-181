@@ -1,0 +1,40 @@
+
+@font-face {
+    font-family: 'Noto Serif Display';
+    src: url('../fonts/NotoSerifDisplay-Medium.eot');
+    src: url('../fonts/NotoSerifDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NotoSerifDisplay-Medium.woff2') format('woff2'),
+        url('../fonts/NotoSerifDisplay-Medium.woff') format('woff'),
+        url('../fonts/NotoSerifDisplay-Medium.ttf') format('truetype'),
+        url('../fonts/NotoSerifDisplay-Medium.svg#NotoSerifDisplay-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab SemiBold';
+    src: url('../fonts/RobotoSlab-SemiBold.eot');
+    src: url('../fonts/RobotoSlab-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-SemiBold.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-SemiBold.woff') format('woff'),
+        url('../fonts/RobotoSlab-SemiBold.ttf') format('truetype'),
+        url('../fonts/RobotoSlab-SemiBold.svg#RobotoSlab-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Thin.eot');
+    src: url('../fonts/RobotoSlab-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-Thin.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-Thin.woff') format('woff'),
+        url('../fonts/RobotoSlab-Thin.ttf') format('truetype'),
+        url('../fonts/RobotoSlab-Thin.svg#RobotoSlab-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
