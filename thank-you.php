@@ -103,6 +103,9 @@
               <li class="item">
                 <a href="./purchase.html" class="text footer__link">Terms of Purchase</a>
               </li>
+              <li class="item">
+                <a href="./cancellation.html" class="text footer__link">Cancellation</a>
+              </li>
             </ul>
           </div>
         </div>
@@ -148,7 +151,7 @@
 
  
   <script type="module" src="./js/on-load.js"></script>
-  <script src="./js/website-data.js"></script>
+  <script type="module" src="./js/website-data.js"></script> 
   <script>
     const menuBtn = document.querySelector('.js_menu-btn');
     const menu = document.querySelector('.js_menu');
