@@ -30,7 +30,7 @@
 
 .contacts__wrapper {
     background-color: var(--fourth-brand-color);
-    background-image: linear-gradient(to right bottom, #080705, #0e0d0a, #12110e, #161512, #191815);
+    background-image: linear-gradient(to right bottom, var(--fourth-brand-color), var(--fifth-brand-color));
 }
 .contacts {
     padding: 15rem 0;
@@ -131,7 +131,7 @@
 
 
     .policy__wrapper {
-        background-image: linear-gradient(to left bottom, #080705, #0e0d0a, #12110e, #161512, #191815);
+        background-image: linear-gradient(to left bottom, var(--fourth-brand-color), var(--fifth-brand-color));
     }
     .policy {
         padding: 15rem;
