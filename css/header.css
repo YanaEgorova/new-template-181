@@ -85,7 +85,7 @@ body.open-menu {
 }
 
 .cart__btn {
-    display: none;
+    display: flex;
     align-items: center;
     width: fit-content;
     padding: 1.5rem 2rem;
